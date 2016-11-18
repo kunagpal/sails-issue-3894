@@ -1,0 +1,29 @@
+{
+  "name": "temp",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Sample sails app for https://github.com/balderdashy/sails/issues/3894",
+  "keywords": [],
+  "dependencies": {
+    "include-all": "^1.0.0",
+    "rc": "1.0.1",
+    "sails": "~0.12.10",
+    "sails-disk": "~0.10.9",
+    "skipper": "0.7.1"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kunagpal/sails-issue-3894.git"
+  },
+  "engines": {
+    "node": "4.3.0"
+  },
+  "engine-strict": true,
+  "author": "kunagpal",
+  "license": "GNU-GPL3.0"
+}
