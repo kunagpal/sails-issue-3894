@@ -5,11 +5,11 @@
   "description": "Sample sails app for https://github.com/balderdashy/sails/issues/3894",
   "keywords": [],
   "dependencies": {
-    "include-all": "^1.0.0",
-    "rc": "1.0.1",
+    "include-all": "^2.0.0",
+    "rc": "1.1.6",
     "sails": "~0.12.10",
     "sails-disk": "~0.10.9",
-    "skipper": "0.7.1"
+    "skipper": "0.7.3"
   },
   "scripts": {
     "debug": "node debug app.js",
